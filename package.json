@@ -1,7 +1,7 @@
 {
   "name": "node-farm",
   "version": "1.0.0",
-  "description": "- [Github Link](https://github.com/jonasschmedtmann/complete-node-bootcamp)",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
